@@ -9,14 +9,13 @@ function HeadQuarter() {
     <div className="px-8 py-3">
       <div className="lg:pl-6 lg:pr-8 ">
         <h2 className="heading">Bariflo Cybernetics - HQ</h2>
-        <p>Chennai, Tamilnadu</p>
+        <p>207 Second Floor Kiit TBI Campus 11,<br /> Patia, Bhubaneswar, Odisha</p>
       </div>
 
       <div className=" lg:px-6  py-2">
-        <h2 className="heading">Odisha - HQ</h2>
+        <h2 className="heading">20 Micklefield Ave</h2>
         <p>
-          207, TBI2, KIIT TBI, Campus 11, <br></br>Patia Estate, Bhubaneswar,
-          Odisha - 751024
+        Whitby,Toronto, <br></br>Ontario L1P 0C3
         </p>
       </div>
 
